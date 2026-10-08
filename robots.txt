@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-fij2pl.salamcuanwin.cfd/sitemap.xml
